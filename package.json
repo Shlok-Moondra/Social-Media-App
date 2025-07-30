@@ -1,0 +1,12 @@
+{
+  "name": "project_backend",
+  "version": "1.0.0",
+  "description": "a backend at coffee with backend",
+  "license": "ISC",
+  "author": "Shlok moondra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
